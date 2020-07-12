@@ -1,8 +1,7 @@
 
 
-[![video](https://i.imgur.com/7rFKSeo.png)](https://player.vimeo.com/video/425085074?autoplay=1&color=f3e62b "Click to Watch")
-[complicatedreality.com](https://www.complicatedreality.com/)
 
+<img src="https://i.imgur.com/59HW2ZP.jpg?2" width="800" height="800" />
 
 
 [![HitCount](http://hits.dwyl.com/BMariscal/BMariscal.svg)](http://hits.dwyl.com/BMariscal/BMariscal)
