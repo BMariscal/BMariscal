@@ -9,9 +9,7 @@
 
   
   <div id="app"><div><div class="navbar card1"></a><div class="mr-auto nav" id="bg"></div></div><section id="aboutme"><div class="row first-section"><div class="col-xs-1 col-md-1"></div><div class="col-xs-9 col-md-5 brd"><img class="img-fluid card2" src="https://media.giphy.com/media/8OJdqYqN1Nii3UTD6l/giphy.gif" alt="me-again"></div><div class="col-xs-4 col-md-5 text-center"><h2> Briceida (Bree-say-dah)</h2><p>Hey! I'm Briceida but I often go by Bri/Brie. I'm a software developer in San Francisco.
-You can read more about my software engineering journey <a href="https://medium.com/engineers-optimizely/from-security-guard-to-backend-engineer-how-the-i-own-it-scholarship-changed-my-life-ebf1d370ffc3"> <i style="color: rgb(101, 23, 184);">here.</i> </a><br><br>In my spare time, I mentor minorities in tech, draw, and paint miniatures.<div class="social-media">
-  
-  
+You can read more about my software engineering journey <a href="https://medium.com/engineers-optimizely/from-security-guard-to-backend-engineer-how-the-i-own-it-scholarship-changed-my-life-ebf1d370ffc3"> <i style="color: rgb(101, 23, 184);">here.</i> </a><br><br>In my spare time, I mentor minorities in tech, draw, and paint miniatures.<div class="social-media">  
   <a class="btn btn1" href="https://www.linkedin.com/in/briceida-mariscal/" target="_blank" style="color: rgb(53, 57, 60);">LinkedIn</a>  <a class="btn btn1" href="https://www.github.com/BMariscal/" target="_blank" style="color: rgb(53, 57, 60);">GitHub</a>  <a class="btn btn1" href="https://twitter.com/briceidamars" target="_blank" style="color: rgb(53, 57, 60);">Twitter</a>  <a class="btn btn1" href="https://deviantart.com/bmariscal/" target="_blank" style="color: rgb(53, 57, 60);">DeviantArt</a>
   
  
