@@ -21,7 +21,6 @@ You can read more about my software engineering journey <a href="https://medium.
   </body></html>
 
 
-[![HitCount](http://hits.dwyl.com/BMariscal/BMariscal.svg)](http://hits.dwyl.com/BMariscal/BMariscal)
 
 
 
