@@ -1,11 +1,5 @@
 <pre>
 <h1>Briceida (Bree-say-dah)</h1>
-
-Hey! I'm Briceida but I often go by Bri/Brie. I'm a software developer in San Francisco.
-You can read more about my software engineering journey <a href="https://medium.com/engineers-optimizely/from-security-guard-to-backend-engineer-how-the-i-own-it-scholarship-changed-my-life-ebf1d370ffc3"><i>here.</i></a>
-<br>
-In my spare time, I mentor minorities in tech, draw, and paint miniatures.
- <div>  
   </pre>
  <p align="center">
 	<a href="https://www.github.com/BMariscal/"><img src="https://img.shields.io/github/followers/BMariscal.svg?label=GitHub&style=social" alt="GitHub"></a>
