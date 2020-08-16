@@ -15,6 +15,13 @@
           src="https://img.shields.io/github/followers/BMariscal.svg?label=GitHub&style=social"
       /></a>
       &nbsp; &nbsp;
+      <a href="https://gitlab.com/brie1"
+         target="_blank"
+        ><img
+          alt="GitLab"
+          src="https://img.shields.io/badge/gitlab--_.svg?style=social&logo=gitlab"
+      /></a>  
+      &nbsp; &nbsp;
       <a href="https://twitter.com/briceidamars"
          target="_blank"
         ><img
@@ -35,7 +42,7 @@
           alt="DeviantArt"
           src="https://img.shields.io/badge/deviantart--_.svg?style=social&logo=deviantart"
       /></a>
-    </p>
+  </p>
   </div>
 
 
