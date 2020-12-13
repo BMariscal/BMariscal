@@ -43,9 +43,6 @@
           src="https://img.shields.io/badge/deviantart--_.svg?style=social&logo=deviantart"
       /></a>
   </p>
-  <div style="display:table-cell; vertical-align:middle; text-align:center" >
-  <img src="https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6932a1_MentalHealthCOVID19_IMAGE_14Aug20_1200x675-medium.jpg"/>
-  </div>
   </div>
 
 
