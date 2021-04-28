@@ -1,5 +1,5 @@
 
-https://user-images.githubusercontent.com/13512876/116192915-678ccd80-a6e3-11eb-85cb-01667e44da27.mp4
+https://i.imgur.com/U8e6i7e.gif
 
   <div>
     <p align="center">    
