@@ -1,5 +1,5 @@
 
-![ezgif com-gif-maker(2)](https://emojis.slackmojis.com/emojis/images/1641488337/51075/kittyvibe.gif?1641488337)
+![ezgif com-gif-maker(2)](https://i.ibb.co/Rb5Ypt2/TheFonz.jpg)
 
 
   <div>
